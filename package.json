@@ -1,0 +1,27 @@
+{
+  "name": "Hydra game",
+  "version": "1.0.0",
+  "description": "TODO",
+  "keywords": [
+    "javascript",
+    "mathematics",
+    "numberphile"
+  ],
+  "author": {
+    "name": "Christophe Le Besnerais",
+    "email": "christophe.lebesnerais.pro@gmail.com",
+    "url": "https://github.com/lebesnec"
+  },
+  "homepage": "https://github.com/lebesnec/hydra-gamee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lebesnec/hydra-game"
+  },
+  "main": "hydra-game.js",
+  "scripts": {
+    "start": "node --max_old_space_size=100000 hydra-game.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.12.0"
+  }
+}
