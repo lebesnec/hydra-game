@@ -1,18 +1,19 @@
 {
   "name": "Hydra game",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Compute the number of steps for the hydra game, see https://www.youtube.com/watch?v=prURA1i8Qj4",
   "keywords": [
     "javascript",
     "mathematics",
-    "numberphile"
+    "numberphile",
+    "hydra game"
   ],
   "author": {
     "name": "Christophe Le Besnerais",
     "email": "christophe.lebesnerais.pro@gmail.com",
     "url": "https://github.com/lebesnec"
   },
-  "homepage": "https://github.com/lebesnec/hydra-gamee",
+  "homepage": "https://github.com/lebesnec/hydra-game",
   "repository": {
     "type": "git",
     "url": "https://github.com/lebesnec/hydra-game"

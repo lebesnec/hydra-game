@@ -1,6 +1,6 @@
 const cliProgress = require('cli-progress');
 
-const SIZE = +process.argv[2] ?? 3;
+const SIZE = +process.argv[2] ?? 4;
 const progress = new cliProgress.SingleBar({}, cliProgress.Presets.shades_classic);
 
 console.time('Duration');
