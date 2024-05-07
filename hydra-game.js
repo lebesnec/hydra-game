@@ -31,7 +31,6 @@ while (tree.length > 1) {
         // cut
         tree[rightLeaf] -= 1;
         if (tree[rightLeaf] === 0) {
-            console.log('pop! ' + currentStep);
             tree.pop();
             progress.increment();
         }
@@ -43,7 +42,7 @@ while (tree.length > 1) {
 
         currentStep = currentStep + 1;
     }
-    console.log(currentStep, tree);
+    //console.log(currentStep, tree);
 }
 
 progress.increment();

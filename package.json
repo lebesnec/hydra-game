@@ -1,5 +1,5 @@
 {
-  "name": "Hydra game",
+  "name": "hydra-game",
   "version": "1.0.0",
   "description": "Compute the number of steps for the hydra game, see https://www.youtube.com/watch?v=prURA1i8Qj4",
   "keywords": [

@@ -10,9 +10,10 @@ You can also use the first argument to try a higher height, ex: `npm start 5`.
 
 Results :
 
-Size | Steps
------|------
-  1  |
-  2  |
-  3  |
-  4  |  
+Size | Steps  | Time
+-----|--------|------
+  1  | 1      | 8.6ms
+  2  | 3      | 10.6ms
+  3  | 11     | 11.2ms
+  4  | 327677 | 22.6ms
+  5  | ???    | ???
